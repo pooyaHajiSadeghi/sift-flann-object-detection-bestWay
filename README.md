@@ -21,7 +21,7 @@ pip install numpy opencv-python matplotlib
 ```
 
 ### 2️⃣ اجرای کد
-برای اجرای کد، تصاویر مورد نظر خود را در مسیر `images/` قرار داده و سپس اسکریپت را اجرا کنید:
+برای اجرای کد، تصاویر مورد نظر خود را در مسیر `img/` قرار داده و سپس اسکریپت را اجرا کنید:
 ```bash
 python detect_object.py
 ```
@@ -46,4 +46,4 @@ python detect_object.py
 ---
 
 ## 🔗 لینک پروژه
-📌 [مشاهده در گیت‌هاب](https://github.com/pooyaHajiSadeghi/sift-object-detection)
+📌 [مشاهده در گیت‌هاب](https://github.com/pooyaHajiSadeghi/sift-flann-object-detection-bestWay.git)
