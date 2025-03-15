@@ -38,7 +38,7 @@ python detect_object.py
 **تصویر ورودی:**
 | 🎯 Query Image | 🎯 Train Image |
 |-------------|-------------|
-| ![Query](img/query.jpg) | ![Train](img/train.jpg) |
+| ![Query](img/Query.jpg) | ![Train](img/Train.jpg) |
 
 **🔍 نتیجه تشخیص:**
 ![Result](img/result.jpg)
