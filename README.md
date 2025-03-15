@@ -38,10 +38,10 @@ python detect_object.py
 **تصویر ورودی:**
 | 🎯 Query Image | 🎯 Train Image |
 |-------------|-------------|
-| ![Query](images/query.jpg) | ![Train](images/train.jpg) |
+| ![Query](img/query.jpg) | ![Train](img/train.jpg) |
 
 **🔍 نتیجه تشخیص:**
-![Result](images/result.jpg)
+![Result](img/result.jpg)
 
 ---
 
