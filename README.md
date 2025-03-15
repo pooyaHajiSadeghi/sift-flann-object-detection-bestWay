@@ -23,7 +23,7 @@ pip install numpy opencv-python matplotlib
 ### 2️⃣ اجرای کد
 برای اجرای کد، تصاویر مورد نظر خود را در مسیر `img/` قرار داده و سپس اسکریپت را اجرا کنید:
 ```bash
-python detect_object.py
+python project.py
 ```
 
 ---
